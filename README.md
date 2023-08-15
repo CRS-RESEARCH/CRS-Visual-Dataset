@@ -73,7 +73,7 @@ The CRS Visual Dataset is in COCO annotation format. The COCO annotation format 
 
 ## Usage
 
-To download the dataset visit [the CVD's Kaggle page](https://www.kaggle.com/datasets/crsresearch/crs-visual-dataset-2).Citation information will be added soon. We patriciate your time and patience.
+To download the dataset visit [the CVD's Kaggle page](https://www.kaggle.com/datasets/crsresearch/crs-visual-dataset-2).Citation information will be added soon. We appreciate your time and patience.
 
 
 ## License
