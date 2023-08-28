@@ -73,7 +73,11 @@ The CRS Visual Dataset is in COCO annotation format. The COCO annotation format 
 
 ## Usage
 
-To download the dataset visit [the CVD's Kaggle page](https://www.kaggle.com/datasets/crsresearch/crs-visual-dataset-2).Citation information will be added soon. We appreciate your time and patience.
+**To download the dataset visit [the CVD's Kaggle page](https://www.kaggle.com/datasets/crsresearch/crs-visual-dataset-2).**
+
+**If you use CRS Visual Dataset in your research or publication, we kindly request that you cite the following paper:**
+
+[Oliaee, A. H., & Tripp, A. R. (2023, August). Layout Analysis of Historic Architectural Program Documents. In Proceedings of the ACM Symposium on Document Engineering 2023 (pp. 1-4).](https://dl.acm.org/doi/abs/10.1145/3573128.3609339)
 
 
 ## License
