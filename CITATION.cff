@@ -1,6 +1,5 @@
 cff-version: 1.2.0
 message: "If you use CRS Visual Dataset in your research or publication, we kindly request that you cite the following paper."
-title: "Layout Analysis of Historic Architectural Program Documents"
 authors:
   - family-names: "Oliaee"
     given-names: "Amir Hossein"
@@ -8,20 +7,24 @@ authors:
   - family-names: "Tripp"
     given-names: "Alexander R."
     orcid: https://orcid.org/0000-0001-8183-926X
+title: "Layout Analysis of Historic Architectural Program Documents"
 version: "1.0"
 doi: 10.1145/3573128.3609339
-date-released: "2023-08-22"
-
-keywords:
-  - Data Mining
-  - Layout Analysis
-  - Object Detection
-  - Architectural Programs
-  - Computer Vision
-  - Archives
-
-citation:
-  - text: "Oliaee AH, Tripp AR. Layout Analysis of Historic Architectural Program Documents. In: Proceedings of the ACM Symposium on Document Engineering 2023; Aug 22, 2023; pp. 1-4."
-    entry-type: "conference-paper"
-    entry-nr: 1
-    bibliographic: false
+date-released: 2023-08-22
+url: https://github.com/CRS-RESEARCH/CRS-Visual-Dataset
+preferred-citation:
+    type: "conference-paper"
+    authors:
+      - family-names: "Oliaee"
+        given-names: "Amir Hossein"
+        orcid: https://orcid.org/0000-0002-0574-2690
+      - family-names: "Tripp"
+        given-names: "Alexander R."
+        orcid: https://orcid.org/0000-0001-8183-926X
+    doi: 10.1145/3573128.3609339
+    journal: "Proceedings of the ACM Symposium on Document Engineering 2023"
+    month: 9
+    start: 1
+    end: 4
+    title: "Layout Analysis of Historic Architectural Program Documents."
+    year: 2023
