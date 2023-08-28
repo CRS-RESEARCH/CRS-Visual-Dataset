@@ -1,1 +1,9 @@
-Oliaee, A. H., & Tripp, A. R. (2023, August). Layout Analysis of Historic Architectural Program Documents. In Proceedings of the ACM Symposium on Document Engineering 2023 (pp. 1-4).
+@proceedings{oliaee2023layout,
+  author = {Oliaee, Amir Hossein and Tripp, Andrew R},
+  doi = {https://dl.acm.org/doi/abs/10.1145/3573128.3609339},
+  title = {Layout Analysis of Historic Architectural Program Documents},
+  url = {https://github.com/CRS-RESEARCH/CRS-Visual-Dataset},
+  version = {2.0.4},
+  pages={1--4},
+  year = {2023}
+}
